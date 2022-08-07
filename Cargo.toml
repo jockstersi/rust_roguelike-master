@@ -1,0 +1,9 @@
+[package]
+name = "rust_roguelike"
+description = "Rust RPG Roguelike"
+version = "0.1.0"
+authors = ["Cameron Manavian <contact@etalx.com>"]
+
+[dependencies]
+rand = "0.3.14"
+text_io = "0.1.7"
